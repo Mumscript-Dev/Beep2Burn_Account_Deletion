@@ -16,7 +16,7 @@ If you would like to delete your Beep2Burn account and associated data, please f
 ### Option 2 – Email Request
 
 If you cannot access the app, email:  
-**support@beep2burn.com**
+**mumscriptdev@gmail.com**
 
 Include:
 
